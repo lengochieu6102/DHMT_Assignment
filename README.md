@@ -84,31 +84,3 @@ b.	Nhấn phím 3, 4 để điều chỉnh vị trí của chốt 2
 Nhấn phím ‘D’ hoặc ‘d’ để bật/tắt nguồn sáng thứ hai. Nguồn sáng thứ nhất luôn luôn bật.
 
 
-IV.	THANG ĐIỂM
-Xây dựng mô hình (4.75 điểm)
-Bộ phận	Yêu cầu	Điểm
-Giá đỡ	Tham khảo chương trình demo	0.25
-Bàn quay	Tham khảo chương trình demo	0.25
-Tay quay	Tham khảo chương trình demo	0.50
-Thanh liên kết	Tham khảo chương trình demo	0.50
-Chốt 1, chốt 2, chốt 3	Tham khảo chương trình demo	0.50
-Gối đỡ	Tham khảo chương trình demo	0.50
-Thanh chữ U	Tham khảo chương trình demo	0.50
-Thanh trượt	Tham khảo chương trình demo	0.25
-Sàn nhà	Tham khảo chương trình demo (sàn nhà phải tự vẽ, không được dùng phương pháp dán texture)	1.5
-
-Điều khiển thiết bị (3 điểm)
-Phím	Hành động	Điểm
-1,2	Nhấn phím 1, 2 để điều khiển bàn quay quay xung quanh trục ngược chiều (cùng chiều) kim đồng hồ.	1.25
-3,4	Nhấn phím 3, 4 để điều chỉnh vị trí của chốt 2	1.25
-W/w	Chuyển đổi qua lại giữa chế độ vẽ khung dây và chế độ tô màu	0.25
-V/v	Chuyển đổi qua lại giữa hai chế độ nhìn (viewing) khác nhau	0.25
-Điều khiển camera (0.75 điểm)
-+/-	Khoảng cách camera đến trục Oy tăng/giảm	0.25
-↑/↓	Chiều cao camera tăng/giảm 	0.25
-/	Camera quay cùng chiều/ngược chiều kim đồng hồ	0.25
-Tô màu (1.5 điểm)
-Nội dung	Yêu cầu	Điểm
-Tô màu thiết bị cơ khí	Tham khảo chương trình demo, để biết màu sắc của mỗi bộ phận của thiết bị	1.25
-Bật tắt nguồn sáng thứ hai	Nhấn phím ‘D’ hoặc ‘d’ để bật tắt nguồn sáng thứ hai	0.25
-
